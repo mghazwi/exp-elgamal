@@ -12,6 +12,4 @@ It is worth noting on distributed key generation: we assume that parties are not
 * re-encryption (key switching)
 * decryption
 
-as well as universally verifiable proofs:
-
-This library was written and used for the paper[TODO](https://todo.com)
+This library was written and used for the paper [TODO](https://todo.com)
